@@ -421,6 +421,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![output](https://github.com/jhansi21005096/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/blob/main/exp-3.1.jpeg)
 ![output](https://github.com/jhansi21005096/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/blob/main/exp3.2.jpeg)
 ![output](https://github.com/jhansi21005096/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/blob/main/iot%20moist.png)
-![output]()
+![output](https://github.com/jhansi21005096/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/blob/main/iot%20moist2.png)
 ## Result :
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
